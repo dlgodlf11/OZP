@@ -1,0 +1,17 @@
+<svg id="레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70 70">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="17.77" y="12.5" width="34.46" height="45" fill="none"/>
+    </clipPath>
+  </defs>
+  <g>
+    <g id="그룹_365" data-name="그룹 365">
+      <g clip-path="url(#clip-path)">
+        <g id="그룹_341" data-name="그룹 341">
+          <path id="패스_654" data-name="패스 654" d="M35,12.5,21.48,29.59a17.23,17.23,0,1,0,27,0L35,12.5" fill="#a0a0a0"/>
+        </g>
+      </g>
+    </g>
+    <rect width="70" height="70" fill="none"/>
+  </g>
+</svg>

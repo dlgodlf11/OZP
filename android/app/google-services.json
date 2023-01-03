@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "865560477003",
+    "firebase_url": "https://moti-demo.firebaseio.com",
+    "project_id": "moti-demo",
+    "storage_bucket": "moti-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865560477003:android:233f59084d087cd48b3cce",
+        "android_client_info": {
+          "package_name": "com.swerve.sweatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865560477003-fd2nc6qnggcjb8fj43496dd4bm21dghf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swerve.sweatbox",
+            "certificate_hash": "a621d155480c06cfd83e054733d8c0979bdaa603"
+          }
+        },
+        {
+          "client_id": "865560477003-sdvei4pnrr3c77akttj67onjtn1mu4cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swerve.sweatbox",
+            "certificate_hash": "65e4c0ce2b09135109c9ddc53bf1885f1c93ec0a"
+          }
+        },
+        {
+          "client_id": "865560477003-hv8sqf2sbka2grct0gvt98l8uvjpukpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRnJOctlnnLQcVIEUKifB2xgqC3F1yq3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865560477003-hv8sqf2sbka2grct0gvt98l8uvjpukpo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865560477003-hfsb0fm9i17pb6t4nv30ckkstbttt72l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "moti-demo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865560477003:android:b0515e1457e0c5088b3cce",
+        "android_client_info": {
+          "package_name": "com.swerve.sweatpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865560477003-6srv4srh7qo1p60di9af9fdmea86aeis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swerve.sweatpro",
+            "certificate_hash": "d7a38feb616e28d55952ed3811091027b6784b87"
+          }
+        },
+        {
+          "client_id": "865560477003-hv8sqf2sbka2grct0gvt98l8uvjpukpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRnJOctlnnLQcVIEUKifB2xgqC3F1yq3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865560477003-hv8sqf2sbka2grct0gvt98l8uvjpukpo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865560477003-hfsb0fm9i17pb6t4nv30ckkstbttt72l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "moti-demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
